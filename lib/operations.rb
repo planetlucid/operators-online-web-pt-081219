@@ -13,7 +13,7 @@ end
 end
 	speed == 35 ? "true" : "safe"
 end
-
+end
 	
 
 
